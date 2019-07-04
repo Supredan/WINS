@@ -1,2 +1,2 @@
-# Wifi-Wins-Mono
-Combine wifi and visual slam for locating
+# WINS
+Combine wireless signal and IMU for state estimating
